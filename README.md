@@ -1,8 +1,31 @@
 <h1 align="center" style="display: block; font-size: 2.5em; font-weight: bold; margin-block-start: 1em; margin-block-end: 1em;">
-  <br /><br /><strong>Decentralized Crypto Casino</strong>
+  <br /><br /><strong>Decentralized Crypto Casino Source Codes</strong>
 </h1>
 
-<br/>1 `star` == 1 `thank you`. By starring the project you thank the contributors for work.
+
+
+Open your own crypto casino with our casino scripts or goldsvet casino! Find exclusive offers on crypto casino source codes on our <a href="https://buycasinoscripts.com/shop/">casino scripts webshop</a> 
+Or join our <a href="https://discord.gg/cryptocasino">Discord server</a> or contact us through <a href="https://t.me/script017">Telegram</a>.
+
+![Classiccryptocasino](https://github.com/swaga/Casino-scripts/assets/17531445/ff349329-365c-48fd-acd9-55b64d36d647)
+![image1](https://github.com/swaga/Casino-scripts/assets/17531445/bab1764f-11ac-427a-ae3a-db898f94d832)
+![image2](https://github.com/swaga/Casino-scripts/assets/17531445/9d140fe9-042d-4623-b21a-abbca3ca2343)
+![image 3](https://github.com/swaga/Casino-scripts/assets/17531445/0caf8692-20cc-4b7a-9063-5f8369ea428a)
+![image 4](https://github.com/swaga/Casino-scripts/assets/17531445/9ead3e5f-2849-4b24-9106-726554d1b617)
+![image 5](https://github.com/swaga/Casino-scripts/assets/17531445/ce6d3819-55f8-4f24-a653-e991bc167802)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Table of contents
 
